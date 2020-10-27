@@ -1,0 +1,40 @@
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

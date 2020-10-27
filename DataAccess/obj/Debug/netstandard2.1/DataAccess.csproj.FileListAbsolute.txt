@@ -1,0 +1,14 @@
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.1\DataAccess.csprojAssemblyReference.cache
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfoInputs.cache
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.1\DataAccess.AssemblyInfo.cs
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.1\DataAccess.deps.json
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.1\DataAccess.dll
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.1\DataAccess.pdb
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.1\Core.dll
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.1\Entities.dll
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.1\Core.pdb
+D:\CgFramework\DataAccess\bin\Debug\netstandard2.1\Entities.pdb
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.1\DataAccess.csproj.CopyComplete
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.1\DataAccess.dll
+D:\CgFramework\DataAccess\obj\Debug\netstandard2.1\DataAccess.pdb

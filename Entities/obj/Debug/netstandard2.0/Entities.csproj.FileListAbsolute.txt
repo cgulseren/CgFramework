@@ -1,0 +1,34 @@
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\Lenovo\source\repos\NorthwindBackend Kurs 4\NorthwindBackend3\NorthwindBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb
+D:\CgFramework\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+D:\CgFramework\Entities\bin\Debug\netstandard2.0\Entities.dll
+D:\CgFramework\Entities\bin\Debug\netstandard2.0\Entities.pdb
+D:\CgFramework\Entities\bin\Debug\netstandard2.0\Core.dll
+D:\CgFramework\Entities\bin\Debug\netstandard2.0\Core.pdb
+D:\CgFramework\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+D:\CgFramework\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+D:\CgFramework\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+D:\CgFramework\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+D:\CgFramework\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+D:\CgFramework\Entities\obj\Debug\netstandard2.0\Entities.dll
+D:\CgFramework\Entities\obj\Debug\netstandard2.0\Entities.pdb

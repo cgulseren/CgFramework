@@ -1,0 +1,16 @@
+D:\CgFramework\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+D:\CgFramework\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+D:\CgFramework\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+D:\CgFramework\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
+D:\CgFramework\Business\bin\Debug\netstandard2.1\Business.deps.json
+D:\CgFramework\Business\bin\Debug\netstandard2.1\Business.dll
+D:\CgFramework\Business\bin\Debug\netstandard2.1\Business.pdb
+D:\CgFramework\Business\bin\Debug\netstandard2.1\Core.dll
+D:\CgFramework\Business\bin\Debug\netstandard2.1\DataAccess.dll
+D:\CgFramework\Business\bin\Debug\netstandard2.1\Entities.dll
+D:\CgFramework\Business\bin\Debug\netstandard2.1\DataAccess.pdb
+D:\CgFramework\Business\bin\Debug\netstandard2.1\Entities.pdb
+D:\CgFramework\Business\bin\Debug\netstandard2.1\Core.pdb
+D:\CgFramework\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+D:\CgFramework\Business\obj\Debug\netstandard2.1\Business.dll
+D:\CgFramework\Business\obj\Debug\netstandard2.1\Business.pdb

@@ -1,0 +1,9 @@
+D:\CgFramework\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+D:\CgFramework\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+D:\CgFramework\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+D:\CgFramework\Core\bin\Debug\netstandard2.1\Core.deps.json
+D:\CgFramework\Core\bin\Debug\netstandard2.1\Core.dll
+D:\CgFramework\Core\bin\Debug\netstandard2.1\Core.pdb
+D:\CgFramework\Core\obj\Debug\netstandard2.1\Core.dll
+D:\CgFramework\Core\obj\Debug\netstandard2.1\Core.pdb
+D:\CgFramework\Core\obj\Debug\netstandard2.1\Core.csprojAssemblyReference.cache

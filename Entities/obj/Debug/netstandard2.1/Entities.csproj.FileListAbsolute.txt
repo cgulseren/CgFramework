@@ -1,0 +1,12 @@
+D:\CgFramework\Entities\obj\Debug\netstandard2.1\Entities.csprojAssemblyReference.cache
+D:\CgFramework\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfoInputs.cache
+D:\CgFramework\Entities\obj\Debug\netstandard2.1\Entities.AssemblyInfo.cs
+D:\CgFramework\Entities\obj\Debug\netstandard2.1\Entities.csproj.CoreCompileInputs.cache
+D:\CgFramework\Entities\bin\Debug\netstandard2.1\Entities.deps.json
+D:\CgFramework\Entities\bin\Debug\netstandard2.1\Entities.dll
+D:\CgFramework\Entities\bin\Debug\netstandard2.1\Entities.pdb
+D:\CgFramework\Entities\bin\Debug\netstandard2.1\Core.dll
+D:\CgFramework\Entities\bin\Debug\netstandard2.1\Core.pdb
+D:\CgFramework\Entities\obj\Debug\netstandard2.1\Entities.csproj.CopyComplete
+D:\CgFramework\Entities\obj\Debug\netstandard2.1\Entities.dll
+D:\CgFramework\Entities\obj\Debug\netstandard2.1\Entities.pdb

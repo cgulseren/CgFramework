@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <UserSecretsId>e8cf5a92-f990-416e-9c15-0b66a9b0169c</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20201025225408_data.cs" />
+    <Compile Remove="Migrations\20201025225408_data.Designer.cs" />
+    <Compile Remove="Migrations\20201025225516_data.cs" />
+    <Compile Remove="Migrations\20201025225516_data.Designer.cs" />
+    <Compile Remove="Migrations\20201025230844_data.cs" />
+    <Compile Remove="Migrations\20201025230844_data.Designer.cs" />
+    <Compile Remove="Migrations\20201025231016_data.cs" />
+    <Compile Remove="Migrations\20201025231016_data.Designer.cs" />
+    <Compile Remove="Migrations\20201025231138_data.cs" />
+    <Compile Remove="Migrations\20201025231138_data.Designer.cs" />
+    <Compile Remove="Migrations\20201025231915_data.cs" />
+    <Compile Remove="Migrations\20201025231915_data.Designer.cs" />
+    <Compile Remove="Migrations\20201025234059_User.cs" />
+    <Compile Remove="Migrations\20201025234059_User.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.9" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+    <ProjectReference Include="..\Entities\Entities.csproj" />
+  </ItemGroup>
+
+</Project>
